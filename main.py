@@ -3,4 +3,4 @@ b = 5
 
 result = a + b 
 
-print (f'{a} + {b} = {result}')
+print (f'{5} + {5} = {result}')
